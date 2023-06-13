@@ -1,4 +1,4 @@
-# Concepts of termninal commands
+# Concepts of termninal commands 
 
 - Its faster
 - More control over machine
